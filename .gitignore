@@ -31,3 +31,4 @@ bitcore-node.json*
 *.bak
 *.orig
 lib/services/insight-api
+.idea/
