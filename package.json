@@ -32,7 +32,7 @@
     "bcoin": "git://github.com/bcoin-org/bcoin.git",
     "bitcoind-rpc": "^0.6.0",
     "bitcore-lib": "5.0.0-beta.1",
-    "bitcore-p2p": "git://github.com/pshenmic/bitcore-p2p.git",
+    "bitcore-p2p": "git://github.com/tark-industries/bitcore-p2p.git",
     "bn.js": "^4.11.8",
     "body-parser": "^1.13.3",
     "colors": "^1.1.2",
